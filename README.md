@@ -1,4 +1,4 @@
-# AgeSeparation This is my first C# project
+This is my first C# project
 
 What it does: 
 Asks for your name and age and tell you in witch part of the society you are.
